@@ -1,2 +1,2 @@
-const lis = document
+function = document
 .getFirstSelector('div')
