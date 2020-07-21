@@ -1,2 +1,4 @@
-function = document
-.getFirstSelector('div')
+function = document {
+  .getFirstSelector('div')
+  
+}
