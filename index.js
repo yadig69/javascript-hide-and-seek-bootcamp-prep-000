@@ -1,4 +1,4 @@
-function = document {
+function  document 
   .getFirstSelector('div')
   
-}
+
