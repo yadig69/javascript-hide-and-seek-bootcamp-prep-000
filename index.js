@@ -1,4 +1,4 @@
-function  getFirstSelector { 
- return document.getFirstSelector('div')
+function  getFirstSelector('div') { 
+ return document.getFirstSelector('div');
 }
 
